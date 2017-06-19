@@ -3,7 +3,7 @@ public class Application {
 	
 	public static void main(String[]args){
 		
-		
+		// Assignment 1: Printing a Receipt
 		System.out.println("+--------------------------------------+\n" +
 						   "|      Java Bank ATM Receipt           |\n" +
 						   "|      Wednesday, December 2, 2015     |\n" +
@@ -20,6 +20,10 @@ public class Application {
 						   "|            Have a coffee day         |\n" +
 						   "|                                      |\n" +
 						   "+--------------------------------------+");
+		
+		// Assignment 2 : A program for yourself
+		// Taimur Sohrab
+		// Age : 24
 		
 	}
 
